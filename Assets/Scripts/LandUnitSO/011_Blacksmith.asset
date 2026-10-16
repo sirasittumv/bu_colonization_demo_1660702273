@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21eff75f97387564db5a12136276f7c8, type: 3}
+  m_Name: 011_Blacksmith
+  m_EditorClassIdentifier: Assembly-CSharp::LandUnitData
+  unitName: Blacksmith
+  landUnitType: 11
+  strength: 3
+  movePointMax: 2
+  visualRange: 1
+  unitIcon: {fileID: 1944592574858670343, guid: 4eb8131d71e3f874c9678b3aae711196, type: 3}
+  armed: 1
+  hasMusket: 0
+  hasHorse: 0

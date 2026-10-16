@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 429d88d3deb48ff488420610fa895bd1, type: 3}
+  m_Name: Tupinamba
+  m_EditorClassIdentifier: Assembly-CSharp::FactionData
+  nation: 11
+  isEuropean: 0
+  flagIcon: {fileID: -4962626418150763556, guid: a5dcb09e19634434da0fb6ecc03c5bb0, type: 3}
+  shieldIcon: {fileID: -4962626418150763556, guid: a5dcb09e19634434da0fb6ecc03c5bb0, type: 3}
+  unitIcon: {fileID: 4638742141484810086, guid: 2c1f69fd54283dc409157d6e3e3fd683, type: 3}
+  townIcon: {fileID: 7458514228927125676, guid: 9a1d566659ac0394c9a0cb2f8af77c65, type: 3}
+  isTropicalNatives: 1

@@ -15,9 +15,9 @@ MonoBehaviour:
   unitName: Hardy Pioneers
   landUnitType: 2
   strength: 2
-  movePointMax: 3
-  visualRange: 1
-  unitIcon: {fileID: 21300000, guid: e7833c1114bec1b43b917f20e8fba17f, type: 3}
-  armed: 0
+  movePointMax: 4
+  visualRange: 2
+  unitIcon: {fileID: -678232246988373871, guid: 39cbe615216bb6f4180911d6eb887197, type: 3}
+  armed: 1
   hasMusket: 0
   hasHorse: 0

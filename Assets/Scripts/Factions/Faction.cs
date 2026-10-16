@@ -8,14 +8,14 @@ public enum Nation
     Spain,
     Netherland,
     Portugal,
-    Sioux,
-    Tupi,
-    Iroquois,
-    Apache,
     Aztec,
-    Huron,
+    Cherokee,
+    Haudenosaunee,
+    Inca,
+    Lakota,
     Maya,
-    Inca
+    Powhatan,
+    Tupinamba,
 }
 
 public class Faction : MonoBehaviour

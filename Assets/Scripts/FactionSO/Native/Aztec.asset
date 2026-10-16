@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 429d88d3deb48ff488420610fa895bd1, type: 3}
+  m_Name: Aztec
+  m_EditorClassIdentifier: Assembly-CSharp::FactionData
+  nation: 5
+  isEuropean: 0
+  flagIcon: {fileID: -915030390701478503, guid: afb09e659ee7e1f4596abd4f429e3576, type: 3}
+  shieldIcon: {fileID: -915030390701478503, guid: afb09e659ee7e1f4596abd4f429e3576, type: 3}
+  unitIcon: {fileID: -3726723239508652034, guid: c99a4ae0275c5ae42acce008dc729d6d, type: 3}
+  townIcon: {fileID: -4043931178737465039, guid: 0f4e4b6df603a0549a4b62f49b43ae34, type: 3}
+  isTropicalNatives: 1

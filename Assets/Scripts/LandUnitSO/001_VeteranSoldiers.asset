@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::LandUnitData
   unitName: Veteran Soldiers
   landUnitType: 1
-  strength: 2
+  strength: 4
   movePointMax: 3
-  visualRange: 1
-  unitIcon: {fileID: 21300000, guid: b35eaa74f0c3f454a9db048eef407631, type: 3}
-  armed: 0
-  hasMusket: 0
+  visualRange: 2
+  unitIcon: {fileID: -3868812660829053132, guid: 1e57a59ff71535f48a295d64e429b8ef, type: 3}
+  armed: 1
+  hasMusket: 1
   hasHorse: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 429d88d3deb48ff488420610fa895bd1, type: 3}
+  m_Name: Cherokee
+  m_EditorClassIdentifier: Assembly-CSharp::FactionData
+  nation: 6
+  isEuropean: 0
+  flagIcon: {fileID: -2493570928266525829, guid: c074871da1623ae41994748d51f995b1, type: 3}
+  shieldIcon: {fileID: -2493570928266525829, guid: c074871da1623ae41994748d51f995b1, type: 3}
+  unitIcon: {fileID: 8859597428164290310, guid: c2ff6bcf42c0a474cae1d38e061e28aa, type: 3}
+  townIcon: {fileID: 7449526019880558034, guid: 8158a0f4cb6bf624ca76ef417bce7c2f, type: 3}
+  isTropicalNatives: 1

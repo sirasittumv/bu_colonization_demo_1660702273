@@ -129,7 +129,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Tupi
+      value: Lakota
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -436,7 +436,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Huron
+      value: Powhatan
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -900,17 +900,17 @@ Transform:
   m_Children:
   - {fileID: 1872488060}
   - {fileID: 439638559}
-  - {fileID: 816388866}
   - {fileID: 1658390526}
   - {fileID: 1473725905}
+  - {fileID: 816388866}
+  - {fileID: 2119572825}
   - {fileID: 1315161664}
+  - {fileID: 2043535009}
   - {fileID: 9545641}
   - {fileID: 1779489638}
   - {fileID: 1769596141}
-  - {fileID: 2119572825}
   - {fileID: 327099014}
   - {fileID: 1789737199}
-  - {fileID: 2043535009}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &619394800
@@ -1809,7 +1809,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Sioux
+      value: Haudenosaunee
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2191,10 +2191,6 @@ PrefabInstance:
     - target: {fileID: 4667762215649990367, guid: 1d25f7b9f12c3314483a6cb4f81b1916, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4771978548365863504, guid: 1d25f7b9f12c3314483a6cb4f81b1916, type: 3}
-      propertyPath: centerHex
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5425222072890801197, guid: 1d25f7b9f12c3314483a6cb4f81b1916, type: 3}
       propertyPath: m_Name
@@ -2731,7 +2727,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Apache
+      value: Maya
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2877,7 +2873,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Maya
+      value: Tupinamba
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3158,31 +3154,31 @@ MonoBehaviour:
   factions:
   - {fileID: 1872488061}
   - {fileID: 439638560}
-  - {fileID: 816388867}
   - {fileID: 1658390527}
   - {fileID: 1473725906}
+  - {fileID: 816388867}
+  - {fileID: 2119572826}
   - {fileID: 1315161665}
+  - {fileID: 2043535010}
   - {fileID: 9545642}
   - {fileID: 1779489639}
   - {fileID: 1769596142}
-  - {fileID: 2119572826}
   - {fileID: 327099015}
   - {fileID: 1789737200}
-  - {fileID: 2043535010}
   factionData:
   - {fileID: 11400000, guid: 3121f396706cea149998e23b76f71e8e, type: 2}
   - {fileID: 11400000, guid: 82bf968be29fad64e8d8d879bc7e50f7, type: 2}
-  - {fileID: 11400000, guid: 9494655ab541b354fb666769a1b301bd, type: 2}
   - {fileID: 11400000, guid: f09dcfbc7ce8142468ffe391c9431ce8, type: 2}
   - {fileID: 11400000, guid: 54fcc94b89c11434dac7a23720b68bc0, type: 2}
-  - {fileID: 11400000, guid: bdff181629c5e674bbc2bf77050742cc, type: 2}
-  - {fileID: 11400000, guid: aed38cd84fa7f444ebdc251ebef912ef, type: 2}
-  - {fileID: 11400000, guid: e51c4eeb8e22f6349a1caf897e76716c, type: 2}
-  - {fileID: 11400000, guid: 123bc22bd81f4cb499cfc3273bbfe287, type: 2}
+  - {fileID: 11400000, guid: 9494655ab541b354fb666769a1b301bd, type: 2}
   - {fileID: 11400000, guid: a02c27e2dae56794d9520e6a18f20d0a, type: 2}
-  - {fileID: 11400000, guid: eafb804671de1554ab5319607778b3d7, type: 2}
-  - {fileID: 11400000, guid: d58b474c0c3f8914bb23c949fb8173d5, type: 2}
+  - {fileID: 11400000, guid: 5f6ef2d2b6f5b4c4b800f3913c5bfe61, type: 2}
+  - {fileID: 11400000, guid: e51c4eeb8e22f6349a1caf897e76716c, type: 2}
   - {fileID: 11400000, guid: c06d7ced96e2bb54596c1300baeefab8, type: 2}
+  - {fileID: 11400000, guid: 3e8341b53de1daf42b000c2dd7fc416c, type: 2}
+  - {fileID: 11400000, guid: d58b474c0c3f8914bb23c949fb8173d5, type: 2}
+  - {fileID: 11400000, guid: 7ccf06305daf7324f961018d526c3eab, type: 2}
+  - {fileID: 11400000, guid: d4a3f872d49cf4241a9ad0f76625936d, type: 2}
   landUnitPrefab: {fileID: 1163532693369091168, guid: 03ce1fb068bb3f94daefe97364f00e81, type: 3}
   navalUnitPrefab: {fileID: 1163532693369091168, guid: ad3d6a879412b964db0589cd6e9c4d73, type: 3}
   townPrefab: {fileID: 1163532693369091168, guid: 07a4a9f33908e134ea5f3d62ae421295, type: 3}
@@ -3194,9 +3190,28 @@ MonoBehaviour:
   - {fileID: 11400000, guid: f74c7a7c9bed7d74db0ba2de57160977, type: 2}
   - {fileID: 11400000, guid: 5e5888ebd0846cd4f9c4e795ffb1d6d5, type: 2}
   - {fileID: 11400000, guid: eca9540f40838db4eacd0db7e44a5b44, type: 2}
+  - {fileID: 11400000, guid: 55f8ae7bd413d3a4cbc4c40832e068c0, type: 2}
+  - {fileID: 11400000, guid: 2912f4e8fa0d0fe49b12a3853169e9d8, type: 2}
+  - {fileID: 11400000, guid: b362fea52376040429bb11a25d655028, type: 2}
+  - {fileID: 11400000, guid: 6d0a9ec99923a844597b33c701771473, type: 2}
+  - {fileID: 11400000, guid: cdc3e08977cebbe46bb85d019dac124b, type: 2}
+  - {fileID: 11400000, guid: d9d282702b4ae314ab2df8189c419017, type: 2}
+  - {fileID: 11400000, guid: 724dec0eb7e769540a9eb388d2bba2c1, type: 2}
+  - {fileID: 11400000, guid: 8ca91eff91a489948bb53174a8515ef7, type: 2}
+  - {fileID: 11400000, guid: 8d18a5f4c7063a14a908de5fe54e8aa4, type: 2}
+  - {fileID: 11400000, guid: aab16d6c111d7b545a722503f63cafe3, type: 2}
+  - {fileID: 11400000, guid: 7cb3ca1c14ff6b043b46e6d3e46be25d, type: 2}
+  - {fileID: 11400000, guid: 9400b1a9ac0804845baaea34f297b39b, type: 2}
+  - {fileID: 11400000, guid: 364843c16e55056499e945836e1dccb4, type: 2}
+  - {fileID: 11400000, guid: ebfeeb7ef8d41be4eb88da7f9021ccc3, type: 2}
+  - {fileID: 11400000, guid: 997f29cc6b570974c81191d72fef0e34, type: 2}
   navalUnitData:
   - {fileID: 11400000, guid: c2b629827c9821d4185b71e921d8e2b9, type: 2}
   - {fileID: 11400000, guid: 7a2216c04fddf454f9d2e84a0c848308, type: 2}
+  - {fileID: 11400000, guid: d90b0d8492429184a9dcf854c4e95e17, type: 2}
+  - {fileID: 11400000, guid: c007aa780c4a08e408aa151d92d6d464, type: 2}
+  - {fileID: 11400000, guid: dd8ee818a377fbd4cba0479605af4608, type: 2}
+  - {fileID: 11400000, guid: a41c6a78704d5f947b71d198ef530200, type: 2}
   playerTurn: 1
   gameTurn: 1
   nativeTownNum: 0

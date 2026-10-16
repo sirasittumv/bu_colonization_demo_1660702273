@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 429d88d3deb48ff488420610fa895bd1, type: 3}
+  m_Name: Inca
+  m_EditorClassIdentifier: Assembly-CSharp::FactionData
+  nation: 8
+  isEuropean: 0
+  flagIcon: {fileID: 1214147130672691913, guid: f90a0f90da390514198b2d351b18cbc8, type: 3}
+  shieldIcon: {fileID: 1214147130672691913, guid: f90a0f90da390514198b2d351b18cbc8, type: 3}
+  unitIcon: {fileID: 8162123548699313430, guid: 3bdcaeebe77e344468cd638ff9720199, type: 3}
+  townIcon: {fileID: 7622758023155610085, guid: be8cea6dc65ca0f4480394b03b7ed064, type: 3}
+  isTropicalNatives: 1

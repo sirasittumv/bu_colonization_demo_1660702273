@@ -8,13 +8,21 @@ public enum LandUnitType
     HardyPioneers,
     PlainIndians,
     TropicalIndians,
-    SeasonedScouts,
+    Scouts,
     Farmers,
     Fishermen,
     Lumberjacks,
     Carpenters,
     OreMiners,
-    Blacksmiths
+    Blacksmiths,
+    FurTrapper,
+    FurTrader,
+    CottonPlanter,
+    CottonWeaver,
+    Missionary,
+    Statesman,
+    Gunsmith,
+    Criminal
 }
 
 public class LandUnit : Unit
